@@ -1,4 +1,4 @@
-//Euclidean Algorithm to fid GCD of two integers
+//Euclidean Algorithm to find GCD of two integers
 //Code by Bipin Timalsina
 #include<iostream>
 using namespace std;
