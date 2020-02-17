@@ -1,4 +1,4 @@
-//Impmentation of Extended Euclidean Algorithm (recursive) 
+//Impmentation of Extended Euclidean Algorithm (iterative) 
 //  "ax+by=gcd(a,b)" what are the values for gcd, x and y
 //code by Bipin Timalsina
 #include<iostream>
